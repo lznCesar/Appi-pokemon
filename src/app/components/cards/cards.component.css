@@ -1,0 +1,14 @@
+.card {
+    width: 80%;
+    margin: 15px;
+  }
+
+  img{
+      display: block;
+      width: 90%;
+      margin: auto;
+  }
+
+  .mat-grid-list{
+      width: 100vw;
+  }
